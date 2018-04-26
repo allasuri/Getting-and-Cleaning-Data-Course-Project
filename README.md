@@ -7,7 +7,8 @@ This repository contains the following files:
   - run_analysis.R, the R script that was used to create the data set
   
 Creating the Data Set
- The R script run_analysis.R can be used to create the data set. It retrieves the source data set and transforms it to produce the final data set by implementing the following steps:
+The R script run_analysis.R can be used to create the data set. It retrieves the source data set and transforms it to produce the final data set by implementing the following steps:
+
     - Download and unzip source data if it doesn't exist.
     - Read data.
     - Merge the training and the test sets to create one data set.
